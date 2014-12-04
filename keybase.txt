@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/brutalhonesty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://brutalhonesty.github.io
+  * I am brutalhonesty (https://keybase.io/brutalhonesty) on keybase.
+  * I have a public key with fingerprint 1EE0 AFF2 29DD 0485 CCB3  E456 2A3C 4FAC 130A AD8C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1ee0aff229dd0485ccb3e4562a3c4fac130aad8c",
+            "host": "keybase.io",
+            "key_id": "2a3c4fac130aad8c",
+            "uid": "b60ac846f1d457aa60151ab6998d8000",
+            "username": "brutalhonesty"
+        },
+        "service": {
+            "hostname": "brutalhonesty.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1417652538,
+    "expire_in": 157680000,
+    "prev": "8ccaab4f097607c9405ab69f9c768555316bdd306b81200aaef1d32f404050c3",
+    "seqno": 28,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yMHnAnicbZFdSBRRFMd3W9NaMDUw0LJi0HzI7M7nzi5JDyJZgitlbFmw3Zm5szuo
+M+vMrLpsUlpUBFYoRSWYUJHaQw8JkVq5GgUqEkmRRKSZ6EOahQoSRnes3nw63Ht+
+5/8/Hy8THTanffFpXnbRnfg0+1DMEbaVnunwRAlBkyIEjuVoNciKGkB6SFdUk/AQ
+JEIAyjJFuSUJMDwrigKNGJajIC0yMhRJGkAo8SKRQwQ1w6rAMgI0UK6i4T/88CsS
+/l2DD68mBA5AkWc4mZQY1gUhB0iWhALndvMSDwCwQAPpKqxEFq2HTVgR1FRkmBGi
+LofAqWpFRFbjlv9aWG5AMYNh4W9DIV0zNVGrwFDQNEOGxxIxIyGrqgYJ/n96fkFR
+JbwIXFGNdEPRVMJDYlI0FcuAZEgXx1IszecQqDak6MivWATr4qyegeWDqrEkL4oQ
+CowM3C4OuEQ3A1hrNtktYpJlWZrkBEmiASfwJAXwahDeA03JDMAkEGnCmrBK1QgP
+ha1MGMCahhJQoRnWEVHX33cyzmZ32uLXr7NuaXNuTP5/4VPpCSupo+KVLEGb8+aN
+FWw7lBoaaUnJ35yx90gVuDDfsqXwcPuO7PlA7e4PJeTozItzsfxf1/Y7vsViGden
+FSWBePbV3nTf8WPq/UxZykGm7V1j04JQNtzT0NE+OxvNbCmNFnXe/tjvKHj7Zs5s
+LUjaNHqrWPjZLXVFd43vm2S/DPnodHLw8gZHrxF3vHJRr0jzh9IfPI88Klno+zRQ
+/rD5BNm9OHJ+gPIN5j5Z+p11qVk7VtPqYzrJnvkF5XTb0sXBsbPbV5KHl0vHXzuX
+MhsP1N90FdYnZXV5Z8cS7jYcLVpervF47716XNb72dvrmza2TmYyA4k3piITxfz3
+iat7dv4BUBYcxw==
+=LkWE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brutalhonesty
+
+==================================================================
+
